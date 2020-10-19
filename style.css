@@ -1,0 +1,23 @@
+*
+{
+    background-color: blue;
+}
+h1 {
+    margin: auto;
+    text-align: center;
+}
+
+h3 {
+    text-align: right;
+}
+
+div{
+    padding: 30px 70px 100px 70px;
+    
+}
+
+.brd{
+    border-color:black;
+    border-style: solid;
+    border-width: 15px
+}
